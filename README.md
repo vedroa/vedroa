@@ -16,8 +16,9 @@ My focus areas include:
 
 - Python
 - Bash
-- C#
-
+- JavaScript
+- cmd
+- powershell
 ---
 
 ## Technical Skills
