@@ -16,7 +16,6 @@ My focus areas include:
 
 - Python
 - Bash
-- JavaScript
 - cmd
 - powershell
 ---
