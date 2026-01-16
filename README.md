@@ -1,65 +1,97 @@
 ## About Me
 
-I am a Cyber Security professional with strong interests in both offensive and defensive security.  
-I have a solid background in programming, analysis, and building practical tools.
+I am a Blue Team / SOC Cyber Security Analyst with a strong focus on defensive security, monitoring, and threat detection.
+I have a solid technical background in programming, security analysis, and building practical tools that support incident response and security operations.
 
-My focus areas include:
-- Cyber Security
-- Malware Analysis and Reverse Engineering (educational and defensive purposes)
-- Secure Software Development
-- Automation and Scripting
-- Threat Analysis
+I am passionate about understanding attacker behavior from a defensive and analytical perspective in order to improve detection, response, and system hardening.
 
----
+## Focus Areas
 
-## Programming Languages
+Security Operations Center (SOC)
 
-- Python
-- Bash
-- cmd
-- powershell
----
+Threat Detection & Monitoring
 
-## Technical Skills
+Incident Response & Investigation
 
-- Security Analysis and Problem Solving
-- Malware Analysis and Behavioral Analysis
-- Reverse Engineering Fundamentals
-- Automation using Python and Bash
-- Windows and Linux Environments
-- Git and GitHub
-- API and Tool Development
+Log Analysis & SIEM Use Cases
 
----
+Secure Software & System Design
 
-## Projects and Libraries
+Security Automation & Scripting
 
-- Discord Library Development  
-  Experience in developing and maintaining a custom Discord library, focusing on performance, stability, and clean architecture.
+## Programming & Scripting
 
-- Security-related Scripts and Tools  
-  Custom tools for analysis, automation, and learning purposes.
+Python
 
----
+Bash
 
-## Languages
+PowerShell
 
-- Arabic (Native)
-- English (Professional)
-- Spanish (Professional)
+Windows CMD
 
----
+Technical Skills
 
-## Learning & Interests
+Security Analysis & Problem Solving
+
+Incident Response & Threat Hunting
+
+Malware Behavioral Analysis
+
+Reverse Engineering Fundamentals (for detection and analysis)
+
+Automation for SOC workflows (Python & Bash)
+
+Windows & Linux Environments
+
+Log Analysis & Alert Tuning
+
+Git & GitHub
+
+API & Security Tool Development
+
+Projects & Tools
+Security Automation & SOC Tools
+
+Development of custom scripts and tools for:
+
+Log analysis and data enrichment
+
+Alert investigation support
+
+Automation of repetitive SOC tasks
+
+Discord Library Development
+
+Experience in developing and maintaining a custom Discord library, focusing on:
+
+Performance & stability
+
+Clean architecture
+
+Secure coding practices
+
+Languages
+
+Arabic (Native)
+
+English (Professional)
+
+Spanish (Professional)
+
+Learning & Interests
 
 Currently expanding my knowledge in:
-- Advanced Malware Analysis
-- Windows Internals
-- Secure System Design
-- Blue Team and Red Team Techniques
 
----
+Advanced Malware Analysis (Blue Team perspective)
+
+Windows Internals
+
+SIEM & Detection Engineering
+
+Threat Hunting Techniques
+
+Secure System Design
 
 ## Philosophy
 
-I believe understanding how systems fail is essential to building systems that are secure.
+I believe that understanding how attacks work is essential for building strong defenses, and that effective security starts with visibility, detection, and rapid response.
